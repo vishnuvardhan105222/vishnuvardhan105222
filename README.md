@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Scikit-learn, XGBoost, Pandas, NumPy, Streamlit, Flask.**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio36.ccbp.tech/](https://myportfolio36.ccbp.tech/)
+- 👨‍💻 All my projects are available at [https://myportfolio36.ccbp.tech/]()
 
 - 💬 Ask me about **React, Node & Machine Learning.**
 
