@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently learning **Scikit-learn, XGBoost, Pandas, NumPy, Streamlit, Flask.**
 
-- 👨‍💻 All my projects are available at [https://myportfolio36.ccbp.tech/]()
-
+- 👨‍💻 All of my projects are available at [https://myportfolio36.ccbp.tech/]()
+  
 - 💬 Ask me about **React, Node & Machine Learning.**
 
 - 📫 How to reach me **vishnuvardhanbairi@gmail.com**
